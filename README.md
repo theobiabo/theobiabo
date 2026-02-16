@@ -1,5 +1,3 @@
-### Hi there 
-
 >  I worked on and currently maintain the [Plunk Rust SDK](https://docs.useplunk.com/guides/rust-sdk) 🦀. I'm currently open to new opportunities. 💼
 ### Building Interesting Things
 
