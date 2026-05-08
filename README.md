@@ -1,1 +1,1 @@
-Building the most unconventional things why listening to music and taking coffee. 
+Building the most unconventional things while listening to music and taking coffee. 
