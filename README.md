@@ -1,1 +1,1 @@
-Mi casa es su casa
+Hi, I'm Obiabo Emmanuel. I'm a software engineer who builds open-source developer tooling by day and tinkers with hardware by night. When I'm not writing code, you'll find me reverse engineering hardware, distro-hopping Linux, or setting up self-managed operating systems on single-board computers. I love diving into open-source ecosystems, reviewing code, and shipping improvements. Sometimes I write my rants and what I think about on how things work [here on my blog](https://www.obiabo.dev/notes)
