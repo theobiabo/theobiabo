@@ -1,1 +1,5 @@
-Hi, I'm Obiabo Emmanuel. I'm a software engineer who builds open-source developer tooling by day and tinkers with hardware by night. When I'm not writing code, you'll find me reverse engineering hardware, distro-hopping Linux, or setting up self-managed operating systems on single-board computers. I love diving into open-source ecosystems, reviewing code, and shipping improvements. Sometimes I write my rants and what I think about on how things work [here on my blog](https://www.obiabo.dev/notes)
+Making the world a better place, one line of open‑source code at a time.
+
+If you like what I do, you can support my work here: [github.com/sponsors/theobiabo](https://github.com/sponsors/theobiabo).
+
+My interests span many things, and I believe there’s more to life than code alone; this Earth is too beautiful not to see as many parts of it as possible.
