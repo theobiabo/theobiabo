@@ -15,7 +15,7 @@
 
 ## About me
 
-I build software using Rust and TypeScript. My work spans from user interfaces to backend infrastructure, focusing on correctness, maintainability, and clear architecture.
+The world is a beautiful place; I'm trying to make it better with code. I primarily write TypeScript and Rust, but I love exploring other things that catch my interest. I've been a Linux user and fanboy for the longest time, and I'm currently reading and researching low-level topics like Linux kernel internals, BCIs, blockchain, and compilers (to contribute to languages and other low-level infrastructure). When I'm not doing that, I capture things that catch my eye, you can find a picture of myself [here](https://www.obiabo.dev/gallery).
 
 ## Selected work
 
